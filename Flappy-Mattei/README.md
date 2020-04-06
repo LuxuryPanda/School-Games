@@ -1,5 +1,5 @@
 # Flappy Mattei
-Gioco basato sul famosissimo hyper-casual game "Flappy Bird".
+Game based on the famous hyper-casual game "Flappy Bird".
 
 # Features
 * Endless Gameplay
