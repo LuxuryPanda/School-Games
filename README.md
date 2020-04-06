@@ -1,5 +1,5 @@
 # School Games
-I'll upload here some open-source games that I made for school.
+I'll upload here some open-source games that I made as school projects.
 
 # Tools
 * Engine: Unity v2019.3.7f1
