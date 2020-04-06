@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55729749339",
+    "firebase_url": "https://flappy-mattei.firebaseio.com",
+    "project_id": "flappy-mattei",
+    "storage_bucket": "flappy-mattei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55729749339:android:da85a039334cb1b4",
+        "android_client_info": {
+          "package_name": "com.borysproductions.flappymattei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55729749339-87avv26fr6cjnagf4ue35rcc27ocr731.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3qjKecwxP_n62bAOghXqQj711rDjAaSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55729749339-87avv26fr6cjnagf4ue35rcc27ocr731.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

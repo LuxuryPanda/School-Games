@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Flappy Mattei/_Scenes/SplashScreen.unity
+    guid: 2ff65c4d945271846b8c80c28c85ec08
+  - enabled: 1
+    path: Assets/_Flappy Mattei/_Scenes/Game.unity
+    guid: 691e1c4e8e7128d4188db18134a195ee
+  m_configObjects: {}
