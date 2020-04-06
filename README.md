@@ -7,5 +7,5 @@ I'll upload here some open-source games that I made for school.
 * Design: Photoshop
 
 # Dependencies
-* Odin Inspector
+* Odin Inspector (Not needed, you can replace BoxGroups() with Header())
 * DoTween
